@@ -1,4 +1,5 @@
 # Task: sitemap-generator
 
 ## Description
-<parameter name=
+Complete the implementation for sitemap-generator
+
